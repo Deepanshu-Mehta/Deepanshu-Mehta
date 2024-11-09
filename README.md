@@ -1,9 +1,9 @@
 # 💫 About Me:
-A passionate frontend developer, currently pursuing B.tech in CS-AI
+A passionate FullStack developer, currently pursuing B.tech in CS-AI
 
 👨‍💻 All of my projects are available at 
 
-💬 Ask me about HTML, CSS, JS, Python, ReactJS
+💬 Ask me about HTML, CSS, JS, Python, ReactJS, Node
 
 📫 How to reach me mdeepanshu2706@gmail.com
 
