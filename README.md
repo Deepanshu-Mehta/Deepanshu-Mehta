@@ -3,7 +3,7 @@ A passionate FullStack developer, currently pursuing B.tech in CS-AI
 
 👨‍💻 All of my projects are available at 
 
-💬 Ask me about HTML, CSS, JS, Python, ReactJS, Node
+💬 Ask me about HTML, CSS, JS, Python, ReactJS, Node, Express, TypeScript, SQL, MongoDB, Prisma
 
 📫 How to reach me mdeepanshu2706@gmail.com
 
