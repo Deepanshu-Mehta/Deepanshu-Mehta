@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+
+<rect width="800" height="470" rx="18" fill="#f6f8fa"/>
+<rect x="0.5" y="0.5" width="799" height="469" rx="18" fill="none" stroke="#d0d7de"/>
+<text x="44" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="1.5" fill="#59636e">LANGUAGE MODEL · FROM SCRATCH</text>
+<text x="43" y="118" font-size="46" font-weight="700" letter-spacing="-1" fill="#1f2328">SLM-125M</text>
+<text x="44" y="158" font-size="24" fill="#59636e">Legal and financial LM, then taught to answer only</text>
+<text x="44" y="189" font-size="24" fill="#59636e">from given passages, quoting them, or to refuse.</text>
+<clipPath id="plot"><rect x="40" y="222" width="720" height="110"/></clipPath>
+<g clip-path="url(#plot)"><path d="M50.0,163.9 C50.7,169.3 52.7,187.7 54.4,196.4 C56.2,205.1 58.4,210.8 60.7,216.2 C62.9,221.6 65.4,225.1 67.8,229.0 C70.1,232.9 72.2,236.3 74.9,239.4 C77.5,242.5 80.5,245.1 83.8,247.6 C87.0,250.1 90.9,252.2 94.4,254.6 C98.0,256.9 101.8,260.0 105.1,261.5 C108.3,263.1 110.3,262.9 114.0,263.9 C117.7,264.8 122.8,266.0 127.3,267.3 C131.7,268.7 135.4,270.4 140.6,272.0 C145.8,273.6 152.5,275.5 158.4,276.7 C164.3,277.8 171.0,278.2 176.1,279.0 C181.3,279.8 185.0,280.1 189.5,281.3 C193.9,282.5 198.4,284.7 202.8,286.0 C207.2,287.2 210.9,288.4 216.1,288.9 C221.3,289.3 228.7,289.0 233.9,288.9 C239.1,288.8 242.8,287.8 247.2,288.3 C251.6,288.8 255.4,291.1 260.5,291.8 C265.7,292.4 273.1,291.9 278.3,292.3 C283.5,292.8 286.4,294.0 291.6,294.7 C296.8,295.4 303.5,296.1 309.4,296.4 C315.3,296.7 321.2,295.9 327.2,296.4 C333.1,296.9 339.0,298.9 344.9,299.3 C350.8,299.7 357.5,298.6 362.7,298.7 C367.9,298.9 371.6,299.7 376.0,300.5 C380.5,301.3 384.2,302.6 389.3,303.4 C394.5,304.2 401.2,304.8 407.1,305.1 C413.0,305.5 418.2,305.5 424.9,305.7 C431.5,305.9 439.7,306.0 447.1,306.3 C454.5,306.6 461.9,307.2 469.3,307.5 C476.7,307.8 484.8,307.6 491.5,308.0 C498.2,308.5 502.6,309.9 509.3,310.4 C515.9,310.9 524.1,310.9 531.5,311.0 C538.9,311.1 547.8,310.5 553.7,311.0 C559.6,311.4 561.8,313.2 567.0,313.9 C572.2,314.5 578.1,314.7 584.8,315.0 C591.4,315.3 599.6,315.4 607.0,315.6 C614.4,315.8 622.5,316.4 629.2,316.2 C635.9,316.0 641.0,314.5 647.0,314.4 C652.9,314.3 658.1,315.1 664.7,315.6 C671.4,316.1 679.5,316.9 686.9,317.3 C694.3,317.8 703.2,318.4 709.1,318.3 C715.1,318.2 717.3,316.8 722.5,316.8 C727.6,316.7 737.3,317.6 740.2,317.8" pathLength="1" fill="none" stroke="#0969da" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M71.3,236.5 C79.0,241.3 102.1,258.2 117.5,265.0 C132.9,271.8 148.3,274.0 163.7,277.2 C179.1,280.4 194.5,282.2 209.9,284.2 C225.3,286.2 240.7,287.9 256.1,289.4 C271.5,291.0 286.9,292.3 302.3,293.5 C317.7,294.8 333.1,295.9 348.5,297.0 C363.9,298.1 379.3,299.0 394.7,299.9 C410.1,300.8 425.5,301.5 440.9,302.2 C456.3,303.0 471.7,303.8 487.1,304.6 C502.5,305.3 517.9,306.3 533.2,306.9 C548.6,307.5 564.0,307.8 579.4,308.3 C594.8,308.7 610.2,309.3 625.6,309.7 C641.0,310.1 656.4,310.4 671.8,310.7 C687.2,311.0 705.0,311.3 718.0,311.5 C731.0,311.7 744.7,311.8 750.0,311.9" fill="none" stroke="#bc4c00" stroke-width="1.8" stroke-dasharray="2 6" stroke-linecap="round" opacity="0.55"/>
+<circle cx="71.3" cy="236.5" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="117.5" cy="265.0" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="163.7" cy="277.2" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="209.9" cy="284.2" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="256.1" cy="289.4" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="302.3" cy="293.5" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="348.5" cy="297.0" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="394.7" cy="299.9" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="440.9" cy="302.2" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="487.1" cy="304.6" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="533.2" cy="306.9" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="579.4" cy="308.3" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="625.6" cy="309.7" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="671.8" cy="310.7" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="718.0" cy="311.5" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<circle cx="750.0" cy="311.9" r="3.6" fill="#bc4c00" stroke="#f6f8fa" stroke-width="2"/>
+<text x="746" y="296" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#1f2328">held-out loss 2.127</text>
+<line x1="44" x2="756" y1="348" y2="348" stroke="#d0d7de"/>
+<text x="44" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">8.16B</text>
+<text x="44" y="432" font-size="21" fill="#59636e">tokens in 45 minutes</text>
+<text x="290" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">&lt;$25</text>
+<text x="290" y="432" font-size="21" fill="#59636e">compute, 8×H100</text>
+<text x="536" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">0.657</text>
+<text x="536" y="432" font-size="21" fill="#59636e">held-out bits per byte</text>
+</svg>

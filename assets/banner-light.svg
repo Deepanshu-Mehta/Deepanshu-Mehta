@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+<style>
+.draw { stroke-dasharray: 1; animation: draw 2.6s cubic-bezier(.3,.6,.2,1); }
+.dot, .late { animation-name: appear; animation-timing-function: steps(1, end); }
+@keyframes draw { from { stroke-dashoffset: 1; } to { stroke-dashoffset: 0; } }
+@keyframes appear { from { opacity: 0; } to { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .draw, .dot, .late { animation: none; } }
+</style>
+<rect width="1200" height="340" rx="18" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="1199" height="339" rx="18" fill="none" stroke="#d0d7de"/>
+<text x="64" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" letter-spacing="2.5" fill="#59636e">ML SYSTEMS · AGENTS · COMPILERS</text>
+<text x="62" y="176" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Deepanshu Mehta</text>
+<text x="64" y="228" font-size="24" fill="#59636e">I build machine learning systems end to end,</text>
+<text x="64" y="262" font-size="24" fill="#59636e">and publish what they measure, <tspan fill="#1f2328">including when they lose.</tspan></text>
+<line x1="744" x2="1136" y1="62" y2="62" stroke="#d8dee4" stroke-width="1"/><line x1="744" x2="1136" y1="125" y2="125" stroke="#d8dee4" stroke-width="1"/><line x1="744" x2="1136" y1="188" y2="188" stroke="#d8dee4" stroke-width="1"/><line x1="744" x2="1136" y1="252" y2="252" stroke="#d8dee4" stroke-width="1"/>
+<clipPath id="plot"><rect x="734" y="62" width="412" height="200"/></clipPath>
+<g clip-path="url(#plot)"><path class="draw" d="M744.0,-48.5 C744.4,-38.2 745.5,-3.2 746.5,13.4 C747.5,30.0 748.7,40.6 750.0,51.0 C751.2,61.3 752.6,67.9 753.9,75.3 C755.3,82.6 756.4,89.2 757.9,95.1 C759.4,101.0 761.1,105.8 762.9,110.6 C764.7,115.4 766.9,119.4 768.9,123.9 C770.9,128.3 773.0,134.2 774.8,137.1 C776.7,140.1 777.7,139.7 779.8,141.5 C781.9,143.4 784.8,145.6 787.3,148.2 C789.8,150.7 791.8,154.1 794.7,157.0 C797.6,159.9 801.4,163.6 804.7,165.8 C808.0,168.0 811.7,168.8 814.6,170.3 C817.5,171.7 819.6,172.5 822.1,174.7 C824.6,176.9 827.1,181.1 829.6,183.5 C832.1,185.9 834.1,188.1 837.0,189.0 C839.9,190.0 844.1,189.2 847.0,189.0 C849.9,188.9 851.9,187.0 854.4,187.9 C856.9,188.9 859.0,193.3 861.9,194.6 C864.8,195.8 868.9,194.7 871.8,195.7 C874.7,196.6 876.4,198.8 879.3,200.1 C882.2,201.4 885.9,202.8 889.3,203.4 C892.6,203.9 895.9,202.5 899.2,203.4 C902.5,204.3 905.8,208.2 909.2,208.9 C912.5,209.7 916.2,207.4 919.1,207.8 C922.0,208.2 924.1,209.7 926.6,211.1 C929.1,212.6 931.1,215.2 934.0,216.7 C936.9,218.1 940.7,219.2 944.0,220.0 C947.3,220.7 950.2,220.7 953.9,221.1 C957.7,221.4 962.2,221.6 966.4,222.2 C970.5,222.7 974.7,223.8 978.8,224.4 C982.9,224.9 987.5,224.6 991.2,225.5 C995.0,226.4 997.5,229.0 1001.2,229.9 C1004.9,230.8 1009.5,230.8 1013.6,231.0 C1017.8,231.2 1022.7,230.1 1026.1,231.0 C1029.4,231.9 1030.6,235.2 1033.5,236.5 C1036.4,237.8 1039.7,238.2 1043.5,238.7 C1047.2,239.3 1051.8,239.5 1055.9,239.8 C1060.1,240.2 1064.6,241.3 1068.3,241.0 C1072.1,240.6 1075.0,237.8 1078.3,237.6 C1081.6,237.5 1084.5,238.9 1088.2,239.8 C1092.0,240.8 1096.5,242.3 1100.7,243.2 C1104.8,244.0 1109.8,245.1 1113.1,244.9 C1116.4,244.7 1117.7,242.2 1120.6,242.1 C1123.5,241.9 1128.9,243.7 1130.5,244.0" pathLength="1" fill="none" stroke="#0969da" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g>
+<path d="M755.9,89.6 C760.3,98.6 773.2,130.9 781.8,143.7 C790.4,156.6 799.1,160.9 807.7,166.9 C816.3,173.0 824.9,176.3 833.5,180.2 C842.2,184.1 850.8,187.2 859.4,190.1 C868.0,193.1 876.7,195.5 885.3,197.9 C893.9,200.3 902.5,202.5 911.1,204.5 C919.8,206.5 928.4,208.4 937.0,210.0 C945.6,211.7 954.3,213.0 962.9,214.4 C971.5,215.9 980.1,217.4 988.8,218.9 C997.4,220.3 1006.0,222.1 1014.6,223.3 C1023.2,224.5 1031.9,225.0 1040.5,225.9 C1049.1,226.8 1057.7,227.8 1066.4,228.6 C1075.0,229.4 1083.6,230.0 1092.2,230.6 C1100.8,231.2 1110.8,231.7 1118.1,232.1 C1125.4,232.5 1133.0,232.7 1136.0,232.8" fill="none" stroke="#bc4c00" stroke-width="2.2" stroke-dasharray="2 7" stroke-linecap="round" opacity="0.55"/>
+<circle class="dot" style="animation-duration:0.49s" cx="755.9" cy="89.6" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:0.63s" cx="781.8" cy="143.7" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:0.77s" cx="807.7" cy="166.9" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:0.91s" cx="833.5" cy="180.2" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.05s" cx="859.4" cy="190.1" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.19s" cx="885.3" cy="197.9" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.33s" cx="911.1" cy="204.5" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.47s" cx="937.0" cy="210.0" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.61s" cx="962.9" cy="214.4" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.75s" cx="988.8" cy="218.9" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:1.89s" cx="1014.6" cy="223.3" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:2.03s" cx="1040.5" cy="225.9" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:2.17s" cx="1066.4" cy="228.6" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:2.31s" cx="1092.2" cy="230.6" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:2.45s" cx="1118.1" cy="232.1" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<circle class="dot" style="animation-duration:2.59s" cx="1136.0" cy="232.8" r="5" fill="#bc4c00" stroke="#ffffff" stroke-width="2"/>
+<g class="late" style="animation-duration:2.7s">
+<rect x="984" y="84" width="156" height="86" fill="#ffffff"/>
+<text x="1136" y="104" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#59636e">held-out loss</text>
+<text x="1136" y="136" text-anchor="end" font-size="30" font-weight="700" fill="#1f2328">2.127</text>
+<text x="1136" y="160" text-anchor="end" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#59636e">0.657 bits/byte</text>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#59636e">
+<line x1="744" x2="764" y1="286" y2="286" stroke="#0969da" stroke-width="3" stroke-linecap="round"/><text x="772" y="291">train</text>
+<circle cx="836" cy="286" r="5" fill="#bc4c00"/><text x="848" y="291">held-out</text>
+<text x="1136" y="291" text-anchor="end">SLM-125M · 8.16B tokens</text>
+</g>
+</svg>

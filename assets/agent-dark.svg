@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+
+<rect width="800" height="470" rx="18" fill="#161b22"/>
+<rect x="0.5" y="0.5" width="799" height="469" rx="18" fill="none" stroke="#30363d"/>
+<text x="44" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="1.5" fill="#8b949e">AGENT · KUBERNETES ON-CALL</text>
+<text x="43" y="118" font-size="46" font-weight="700" letter-spacing="-1" fill="#e6edf3">IT Incident Agent</text>
+<text x="44" y="158" font-size="24" fill="#8b949e">An 8B open model diagnoses incidents and proposes</text>
+<text x="44" y="189" font-size="24" fill="#8b949e">one fix as a dry-run diff. It never acts alone.</text>
+<rect x="44" y="222" width="80" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="84" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Alert</text>
+<rect x="134.0" y="222" width="91" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="179" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Triage</text>
+<rect x="234.8" y="222" width="145" height="38" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-width="1.6"/>
+<text x="307" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#e6edf3">Investigate</text>
+<rect x="389.6" y="222" width="112" height="38" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-width="1.6"/>
+<text x="446" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#e6edf3">Diagnose</text>
+<rect x="512.0" y="222" width="177" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="601" y="247" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Evidence check</text>
+<rect x="44" y="272" width="112" height="38" rx="8" fill="#0d1117" stroke="#58a6ff" stroke-width="1.6"/>
+<text x="100" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#e6edf3">Plan fix</text>
+<rect x="166.4" y="272" width="145" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="239" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Policy gate</text>
+<rect x="321.20000000000005" y="272" width="102" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="372" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Dry run</text>
+<rect x="432.80000000000007" y="272" width="102" height="38" rx="8" fill="#0d1117" stroke="#d29922" stroke-width="1.6"/>
+<text x="484" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#e6edf3">Approve</text>
+<rect x="544.4000000000001" y="272" width="102" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="595" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Execute</text>
+<rect x="656.0000000000001" y="272" width="91" height="38" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<text x="701" y="297" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" fill="#8b949e">Verify</text>
+<text xml:space="preserve" x="44" y="346" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e"><tspan fill="#58a6ff">■</tspan> model reasons   <tspan fill="#8b949e">■</tspan> code decides   <tspan fill="#d29922">■</tspan> a person approves</text>
+<line x1="44" x2="756" y1="348" y2="348" stroke="#30363d"/>
+<text x="44" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#e6edf3">15 / 16</text>
+<text x="44" y="432" font-size="21" fill="#8b949e">live fixes recovered</text>
+<text x="290" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#e6edf3">27 / 27</text>
+<text x="290" y="432" font-size="21" fill="#8b949e">unsafe calls refused</text>
+<text x="536" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#e6edf3">97 vs 88%</text>
+<text x="536" y="432" font-size="21" fill="#8b949e">rules beat the agent</text>
+</svg>

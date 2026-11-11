@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">
+
+<rect width="800" height="470" rx="18" fill="#f6f8fa"/>
+<rect x="0.5" y="0.5" width="799" height="469" rx="18" fill="none" stroke="#d0d7de"/>
+<text x="44" y="64" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="18" letter-spacing="1.5" fill="#59636e">COMPILER · VISUAL WALKTHROUGH</text>
+<text x="43" y="118" font-size="46" font-weight="700" letter-spacing="-1" fill="#1f2328">HomeLang</text>
+<text x="44" y="158" font-size="24" fill="#59636e">A complete compiler for a smart-home language, with</text>
+<text x="44" y="189" font-size="24" fill="#59636e">every stage drawn from the data it runs on.</text>
+<text x="44" y="246" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="23" fill="#1f2328"><tspan fill="#cf222e">IF</tspan> TEMPERATURE &gt; <tspan fill="#0550ae">30</tspan> <tspan fill="#cf222e">THEN</tspan> TURN_ON AC</text>
+<line x1="70" x2="730" y1="290" y2="290" stroke="#bc4c00" stroke-width="2.5"/>
+<circle cx="70" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="70" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">1</text>
+<text x="70" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">Lexer</text>
+<circle cx="180" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="180" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">2</text>
+<text x="180" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">Parser</text>
+<circle cx="290" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="290" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">3</text>
+<text x="290" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">Semantic</text>
+<circle cx="400" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="400" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">4</text>
+<text x="400" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">IR</text>
+<circle cx="510" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="510" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">5</text>
+<text x="510" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">Optimize</text>
+<circle cx="620" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="620" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">6</text>
+<text x="620" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">Codegen</text>
+<circle cx="730" cy="290" r="14" fill="#f6f8fa" stroke="#bc4c00" stroke-width="2.5"/>
+<text x="730" y="296" text-anchor="middle" font-size="15" font-weight="700" fill="#bc4c00">7</text>
+<text x="730" y="330" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#59636e">VM</text>
+<line x1="44" x2="756" y1="348" y2="348" stroke="#d0d7de"/>
+<text x="44" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">7</text>
+<text x="44" y="432" font-size="21" fill="#59636e">stages, lexer to VM</text>
+<text x="290" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">9</text>
+<text x="290" y="432" font-size="21" fill="#59636e">optimizer passes</text>
+<text x="536" y="400" font-size="38" font-weight="700" letter-spacing="-0.5" fill="#1f2328">LL(1)</text>
+<text x="536" y="432" font-size="21" fill="#59636e">grammar, proven</text>
+</svg>
