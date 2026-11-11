@@ -8,22 +8,10 @@ Final-year B.Tech student in Computer Science (AI). I pretrain small language mo
 ### Selected work
 
 <p>
-  <a href="https://github.com/Deepanshu-Mehta/SLM"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/slm-dark.svg">
-    <img alt="SLM-125M: a legal and financial language model pretrained from scratch on 8.16B tokens in 45 minutes on 8 H100s for under $25, then taught to answer only from given passages." src="assets/slm-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/Deepanshu-Mehta/IT-Incident-Agent"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/agent-dark.svg">
-    <img alt="IT Incident Agent: a Kubernetes on-call agent on an 8B open model. 15 of 16 live fixes recovered, 27 of 27 unsafe requests refused, and plain rules still beat it 97% to 88%." src="assets/agent-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/Deepanshu-Mehta/homelang-compiler"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/homelang-dark.svg">
-    <img alt="HomeLang: a seven-stage compiler for a smart-home language, from lexer to virtual machine, with nine optimizer passes and a visual walkthrough." src="assets/homelang-light.svg" width="49%">
-  </picture></a>
-  <a href="https://github.com/Deepanshu-Mehta/ISIC2024"><picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/isic-dark.svg">
-    <img alt="ISIC 2024 skin cancer detection: 393 malignant lesions among 401,059, pAUC 0.1745 with GBDTs, SwinV2 and a stacked meta-learner." src="assets/isic-light.svg" width="49%">
-  </picture></a>
+  <a href="https://github.com/Deepanshu-Mehta/SLM"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/slm-dark.svg"><img alt="SLM-125M: a legal and financial language model pretrained from scratch on 8.16B tokens in 45 minutes on 8 H100s for under $25, then taught to answer only from given passages." src="assets/slm-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Deepanshu-Mehta/IT-Incident-Agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/agent-dark.svg"><img alt="IT Incident Agent: a Kubernetes on-call agent on an 8B open model. 15 of 16 live fixes recovered, 27 of 27 unsafe requests refused, and plain rules still beat it 97% to 88%." src="assets/agent-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Deepanshu-Mehta/homelang-compiler"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/homelang-dark.svg"><img alt="HomeLang: a seven-stage compiler for a smart-home language, from lexer to virtual machine, with nine optimizer passes and a visual walkthrough." src="assets/homelang-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/Deepanshu-Mehta/ISIC2024"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/isic-dark.svg"><img alt="ISIC 2024 skin cancer detection: 393 malignant lesions among 401,059, pAUC 0.1745 with GBDTs, SwinV2 and a stacked meta-learner." src="assets/isic-light.svg" width="49%"></picture></a>
 </p>
 
 Try them: [SLM playground](https://slm-125m-legal-sandy.vercel.app) · [grounded QA demo](https://slm-125m-legal-sandy.vercel.app/grounded) · [incident agent walkthrough (3 min)](https://github.com/Deepanshu-Mehta/IT-Incident-Agent/releases/tag/v1.0) · [ISIC demo](https://huggingface.co/spaces/Deepanshu027/isic2024-demo)
